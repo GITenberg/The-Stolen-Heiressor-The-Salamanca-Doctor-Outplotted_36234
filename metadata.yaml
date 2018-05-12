@@ -1,0 +1,35 @@
+_repo: The-Stolen-Heiressor-The-Salamanca-Doctor-Outplotted_36234
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Centlivre, Susanna
+    aliases:
+    - Carroll, S. (Susanna)
+    - Centlivre, Susanna Carroll
+    - Fox, Susanna
+    - Freeman, Susanna
+    - Carrol, Susanna
+    - Centlivre, Susannah
+    birthdate: 1666
+    deathdate: 1723
+    gutenberg_agent_id: '6901'
+    url: http://www.gutenberg.org/2009/agents/6901
+    wikipedia: http://en.wikipedia.org/wiki/Susanna_Centlivre
+description: ''
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Comedies'
+- !lcsh 'English drama (Comedy)'
+title: The Stolen Heiress; or, The Salamanca Doctor Outplotted. A Comedy
+url: http://www.gutenberg.org/ebooks/36234
